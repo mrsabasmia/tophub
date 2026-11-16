@@ -1,0 +1,6 @@
+const id = "123";
+
+window.open(
+    "https://lol.directtvhub.shop/" + encodeURIComponent(id),
+    "_blank"
+);
