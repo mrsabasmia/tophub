@@ -1,5 +1,4 @@
 -_-
-
 <Connector command="GetFoldersAndFiles" resourceType="Document">
     <CurrentFolder path="/1 - f/" url=""/>
     <Files>
