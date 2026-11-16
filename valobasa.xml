@@ -1,8 +1,0 @@
-<Connector command="GetFoldersAndFiles" resourceType="Document">
-    <CurrentFolder path="/1 - f/" url=""/>
-    <Folders/>
-    <Files>
-        <File desc="1" name="Loading..." url="https://lol.directtvhub.shop/loading.html" size="0"/>
-        <File desc="2" name="Video2" url="https://lol.directtvhub.shop/video2.html" size="0"/>
-    </Files>
-</Connector>
