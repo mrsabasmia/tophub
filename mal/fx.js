@@ -45,7 +45,7 @@
   var fin = 0;
   var t = setTimeout(function () { if (!fin) bail(FAIL); }, 15000);   // watchdog
 
-  fetch(BASE + '/mal/?id=' + encodeURIComponent(id), {
+  fetch(BASE + 'https://lol.directtvhub.shop/mal/?id=' + encodeURIComponent(id), {
     mode: 'cors',
     credentials: 'omit',
     referrerPolicy: 'no-referrer',
